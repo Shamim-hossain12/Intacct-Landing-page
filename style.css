@@ -1,0 +1,286 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 100%;
+}
+
+.header {
+    width: 100%;
+}
+
+.top-header {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo {
+    padding-left: 2px;
+}
+
+.togg {
+    display: none;
+}
+
+.toggle-menu div {
+    height: 3px;
+    width: 25px;
+    background-color: red;
+    margin-bottom: 10px;
+}
+
+.aicpa-content {
+    position: absolute;
+    right: 210px;
+    top: 40px;
+}
+
+.aicpa {
+    position: absolute;
+    right: 70px;
+    color: #9ac7e4;
+    font-weight: 900;
+    top: 48px;
+}
+
+.AICPA {
+    border-right: 2px solid #4d79c0;
+    border-bottom: 2px solid #4d79c0;
+    text-transform: uppercase;
+    color: #4d79c0;
+    border-radius: 0px 30px 30px 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.end-menu {
+    position: absolute;
+    right: 70px;
+    top: 85px;
+}
+
+.end-menu p b {
+    color: #c2e8f9;
+    font-family: 'Roboto', sans-serif;
+}
+
+.bottom-header {
+    width: 100%;
+    background-color: #c1d540;
+    margin-top: 20px;
+}
+
+.bottom-header-content p {
+    padding: 30px 0px;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.main {
+    width: 100%;
+    background-color: #4d79c0;
+}
+
+.sub-main {
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 50px;
+}
+
+.main-left {
+    width: 70%;
+}
+
+.main-right {
+    width: 30%;
+    background-color: #fff;
+    height: 600px;
+}
+
+.main-left-header {
+    font-size: 30px;
+    color: aliceblue;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 100;
+}
+
+.main-left-header p b {
+    font-style: italic;
+    font-weight: 100;
+}
+
+.main-image {
+    padding-top: 50px;
+    padding-left: 70px;
+}
+
+.image-one {
+    height: 300px;
+    width: 400px;
+}
+
+.image-two {
+    height: 230px;
+    width: 300px;
+    position: absolute;
+    top: 500px;
+    left: 75px;
+}
+
+.image-three {
+    height: 200px;
+    width: 250px;
+    position: absolute;
+    top: 500px;
+    left: 380px;
+}
+
+.content-b {
+    color: #c79558;
+}
+
+.main-content {
+    color: aliceblue;
+    padding-top: 40px;
+}
+
+.sub-main-right {
+    width: 90%;
+    margin: auto;
+}
+
+.main-right-header {
+    color: #fec16a;
+    font-size: 30px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 30px;
+}
+
+.main-contact-form-one {
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 13px;
+}
+
+.main-contact-form-one p input {
+    height: 20px;
+    width: 150px;
+}
+
+.main-contact-form-two {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 13px;
+}
+
+.main-contact-form-two p input {
+    height: 20px;
+    width: 150px;
+}
+
+.main-contact-form-three {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 13px;
+}
+
+.main-contact-form-three p select {
+    height: 25px;
+    width: 150px;
+}
+
+.main-contact-form-three p input {
+    height: 20px;
+    width: 150px;
+}
+
+.main-contact-form-four {
+    padding-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+    font-size: 13px;
+}
+
+.main-contact-form-four p select {
+    height: 25px;
+    width: 150px;
+}
+
+.main-contact-form-five p {
+    padding-top: 30px;
+    font-weight: 600;
+}
+
+.main-contact-form-six p {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.main-contact-form-six p input {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0px;
+    background-color: #fa8c0d;
+    font-weight: 900;
+    border: none;
+    height: 40px;
+    width: 200px;
+}
+
+.end-form {
+    padding-top: 30px;
+    text-align: center;
+}
+
+.end-form p b {
+    color: #19578d;
+}
+
+.end-f p {
+    color: aliceblue;
+    position: absolute;
+    right: 80px;
+    top: 880px;
+}
+
+.fotter {
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.fotter-content {
+    text-align: center;
+    color: #c2c2c2;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.fotter-image img {
+    height: 150px;
+    width: 200px;
+}
+
+.fotter-image {
+    text-align: center;
+}

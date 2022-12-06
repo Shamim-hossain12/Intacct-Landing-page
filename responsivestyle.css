@@ -1,0 +1,314 @@
+@media (min-width:1400px) {}
+
+@media (min-width:1200px) and (max-width:1399px) {
+    .main-contact-form-one p input {
+        height: 20px;
+        width: 130px;
+    }
+    .main-contact-form-two p input {
+        height: 20px;
+        width: 130px;
+    }
+    .main-contact-form-three p select {
+        height: 25px;
+        width: 130px;
+    }
+    .main-contact-form-four p select {
+        height: 25px;
+        width: 130px;
+    }
+    .main-contact-form-three p input {
+        height: 20px;
+        width: 130px;
+    }
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+    .main-left {
+        width: 60%;
+    }
+    .image-one {
+        height: 200px;
+        width: 300px;
+    }
+    .image-two {
+        height: 150px;
+        width: 200px;
+        top: 500px;
+        left: 90px;
+    }
+    .image-three {
+        height: 130px;
+        width: 200px;
+        top: 500px;
+        left: 300px;
+    }
+    .main-right {
+        width: 40%;
+        background-color: #fff;
+        height: 600px;
+    }
+    .fotter-image img {
+        height: 120px;
+        width: 150px;
+        padding: 0px 0px;
+    }
+}
+
+@media (min-width:768px) and (max-width:991px) {
+    .sub-main {
+        flex-direction: column;
+    }
+    .main-left {
+        width: 90%;
+    }
+    .main-left-header {
+        text-align: center;
+    }
+    .image-two {
+        height: 200px;
+        width: 250px;
+        top: 550px;
+        left: 100px;
+    }
+    .image-three {
+        height: 170px;
+        width: 250px;
+        top: 560px;
+        left: 370px;
+    }
+    .main-right {
+        width: 50%;
+        margin: auto;
+        margin-top: 50px;
+    }
+    .end-f p {
+        top: 1680px;
+        right: 220px;
+    }
+}
+
+@media (min-width:576px) and (max-width:767px) {
+    .top-header {
+        flex-direction: column;
+    }
+    .aicpa-content {
+        right: 30px;
+    }
+    .aicpa {
+        top: 60px;
+        right: 30px;
+    }
+    .end-menu {
+        top: 100px;
+        right: 30px;
+    }
+    .sub-main {
+        flex-direction: column;
+    }
+    .main-left {
+        width: 100%;
+    }
+    .main-left-header {
+        text-align: center;
+    }
+    .main-image {
+        padding-left: 10px;
+    }
+    .image-two {
+        height: 200px;
+        width: 250px;
+        top: 550px;
+        left: 30px;
+    }
+    .image-three {
+        height: 170px;
+        width: 250px;
+        top: 560px;
+        left: 300px;
+    }
+    .main-right {
+        width: 70%;
+        margin: auto;
+        margin-top: 50px;
+    }
+    .end-f p {
+        top: 1680px;
+        right: 100px;
+    }
+    .fotter-image {
+        padding-left: 30px;
+    }
+}
+
+@media (min-width:321px) and (max-width:575px) {
+    .top-header {
+        flex-direction: column;
+    }
+    .menu-item {
+        margin-bottom: 100px;
+    }
+    .logo {
+        text-align: center;
+    }
+    .aicpa-content {
+        right: 30px;
+        top: 120px;
+    }
+    .aicpa {
+        top: 140px;
+        right: 30px;
+    }
+    .end-menu {
+        top: 180px;
+        right: 30px;
+    }
+    .sub-main {
+        flex-direction: column;
+    }
+    .main-image {
+        padding-left: 0px;
+    }
+    .image-one {
+        height: 170px;
+        width: 220px;
+    }
+    .image-two {
+        height: 120px;
+        width: 150px;
+        top: 635px;
+        left: 30px;
+    }
+    .image-three {
+        height: 100px;
+        width: 120px;
+        top: 640px;
+        left: 180px;
+    }
+    .main-right {
+        width: 100%;
+        position: absolute;
+        top: 1270px;
+        left: 0px;
+    }
+    .end-f p {
+        top: 1880px;
+        right: 40px;
+    }
+    .fotter-image {
+        padding-left: 30px;
+    }
+    .main-left-header {
+        font-size: 20px;
+        text-align: center;
+    }
+    .main-contact-form-one p input {
+        height: 20px;
+        width: 130px;
+    }
+    .main-contact-form-two p input {
+        height: 20px;
+        width: 130px;
+    }
+    .main-contact-form-three p select {
+        height: 25px;
+        width: 130px;
+    }
+    .main-contact-form-four p select {
+        height: 25px;
+        width: 130px;
+    }
+    .main-contact-form-three p input {
+        height: 20px;
+        width: 130px;
+    }
+    .main {
+        padding-bottom: 630px;
+    }
+}
+
+@media (max-width:320px) {
+    .top-header {
+        flex-direction: column;
+    }
+    .menu-item {
+        margin-bottom: 100px;
+    }
+    .logo {
+        text-align: center;
+    }
+    .aicpa-content {
+        right: 30px;
+        top: 120px;
+    }
+    .aicpa {
+        top: 140px;
+        right: 30px;
+    }
+    .end-menu {
+        top: 180px;
+        right: 30px;
+    }
+    .sub-main {
+        flex-direction: column;
+    }
+    .main-image {
+        padding-left: 0px;
+    }
+    .image-one {
+        height: 170px;
+        width: 220px;
+    }
+    .image-two {
+        height: 120px;
+        width: 150px;
+        top: 635px;
+        left: 30px;
+    }
+    .image-three {
+        height: 100px;
+        width: 120px;
+        top: 640px;
+        left: 180px;
+    }
+    .main-right {
+        width: 100%;
+        position: absolute;
+        top: 1270px;
+        left: 0px;
+    }
+    .end-f p {
+        top: 1880px;
+        right: 40px;
+    }
+    .fotter-image {
+        padding-left: 30px;
+    }
+    .main-left-header {
+        font-size: 20px;
+        text-align: center;
+    }
+    .main-contact-form-one p input {
+        height: 20px;
+        width: 130px;
+    }
+    .main-contact-form-two p input {
+        height: 20px;
+        width: 130px;
+    }
+    .main-contact-form-three p select {
+        height: 25px;
+        width: 130px;
+    }
+    .main-contact-form-four p select {
+        height: 25px;
+        width: 130px;
+    }
+    .main-contact-form-three p input {
+        height: 20px;
+        width: 130px;
+    }
+    .main {
+        padding-bottom: 630px;
+    }
+}
